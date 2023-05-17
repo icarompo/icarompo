@@ -1,7 +1,7 @@
 # Ícaro Mesquita Ponce
 
 ## About Me
-Hello! I'm Ícaro, a Computer Science student at UFT (Universidade Federal do Tocantins) in Brazil and an [Epic Team](http://epicteam.dev/) - UFT member.
+Hello! I'm Ícaro, a Computer Science student at UFT (Universidade Federal do Tocantins) in Brazil and an [Epic Team](http://epicteam.dev/) member.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
