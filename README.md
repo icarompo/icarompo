@@ -4,7 +4,7 @@
 Hello! I'm Ícaro, a Computer Science student at UFT (Universidade Federal do Tocantins) in Brazil and an [Epic Team](http://epicteam.dev/) member.
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-yellow?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 
