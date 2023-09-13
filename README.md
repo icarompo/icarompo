@@ -7,11 +7,13 @@ Hello! I'm Ícaro, a Computer Science student at UFT (Universidade Federal do To
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)
 
 ### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-blue?style=flat-square&logo=next.js&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
